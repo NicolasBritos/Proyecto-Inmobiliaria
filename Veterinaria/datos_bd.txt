@@ -1,6 +1,0 @@
-Base de datos: tpo2integrador
-Usuario: tpo2integrador
-Contraseña: tpo2integrador
-Puerto: 3307
-Host: localhost
-
